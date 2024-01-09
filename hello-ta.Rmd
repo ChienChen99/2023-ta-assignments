@@ -1,0 +1,20 @@
+---
+title: "hello-ta"
+output: html_notebook
+---
+
+Hello network.
+
+```{r}
+plot(cars)
+
+install.packages('tidyverse')
+install.packages('igraph')
+install.packages('tinytex')
+
+library(tidyverse)
+library(igraph)
+library(tinytex)
+
+```
+
